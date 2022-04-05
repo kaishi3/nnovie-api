@@ -1,0 +1,14 @@
+{
+    "theatres": [
+        {
+            "id": 0,
+            "name": "Century Boulder",
+            "web": "cinemark.com",
+            "desc": "Theater complex with multiple screens, all-stadium seating & self-service ticketing kiosks.",
+            "address": "1700 29th St, Boulder, CO 80301",
+            "lat": 40.01744,
+            "long": -105.25416
+        }
+    ]
+
+}
