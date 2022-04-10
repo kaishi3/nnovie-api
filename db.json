@@ -8,7 +8,205 @@
             "address": "1700 29th St, Boulder, CO 80301",
             "lat": 40.01744,
             "long": -105.25416
+        },
+        {
+            "id": 1,
+            "name": "Canyon Theater and Gallery",
+            "web": "boulderlibrary.org",
+            "desc": "Not available",
+            "address": "9th Street and Canyon Boulevard, Canyon Blvd, Boulder, CO 80302",
+            "lat": 40.01508,
+            "long": -105.28213
+        },
+        {
+            "id": 2,
+            "name": "Regal Cinebarre Boulder",
+            "web": "regmovies.com",
+            "desc": "Theater complex with multiple screens featuring new release films, plush seating & concession stand.",
+            "address": "1164 W Dillon Rd, Louisville, CO 80027",
+            "lat": 39.96011,
+            "long": -105.16744
+        },
+        {
+            "id": 3,
+            "name": "AMC Flatiron Crossing 14",
+            "web": "amctheatres.com",
+            "desc": "Not available",
+            "address": "61 W Flatiron Crossing Dr, Broomfield, CO 80021",
+            "lat": 39.93016,
+            "long": -105.13539
+        },
+        {
+            "id": 4,
+            "name": "Boulder Theater",
+            "web": "z2ent.com",
+            "desc": "Art deco institution since 1906 for various music shows & mostly avant-garde films.",
+            "address": "2032 14th St, Boulder, CO 80302",
+            "lat": 30.01918,
+            "long": -105.27748
+        },
+        {
+            "id": 5,
+            "name": "Regal Village At The Peaks & RPX",
+            "web": "regmovies.com",
+            "desc": "Theater complex with multiple screens featuring new release films, plush seating & concession stand.",
+            "address": "1230 S Hover St, Longmont, CO 80501",
+            "lat": 40.14767,
+            "long": -105.12716
+        },
+        {
+            "id": 6,
+            "name": "AMC Westminster Promenade 24",
+            "web": "amctheatres.com",
+            "desc": "Not available",
+            "address": "10655 Westminster Blvd, Westminster, CO 80020",
+            "lat": 39.93016,
+            "long": -105.13539
+        },
+        {
+            "id": 7,
+            "name": "AMC Orchard 12",
+            "web": "amctheatres.com",
+            "desc": "Not available",
+            "address": "14653 Orchard Pkwy, Westminster, CO 80023",
+            "lat": 39.96225,
+            "long": -104.99430
+        },
+        {
+            "id": 8,
+            "name": "Canyon Theater - Boulder Public Library",
+            "web": "boulderlibrary.org",
+            "desc": "Not available",
+            "address": "1001 Arapahoe Ave, Boulder, CO 80302",
+            "lat": 40.01379,
+            "long": -105.28127
+        },
+        {
+            "id": 9,
+            "name": "Alamo Drafthouse Cinema Westminster",
+            "web": "drafthouse.com",
+            "desc": "Stylish theater chain for new & classic films features cocktails & creative bites served seat-side.",
+            "address": "8905 Westminster Blvd, Westminster, CO 80031",
+            "lat": 40.01379,
+            "long": -105.28127
+        },
+        {
+            "id": 10,
+            "name": "The 88 Drive-In Theatre",
+            "web": "88drivein.net",
+            "desc": "Drive-up movie screen showing current films in summer to patrons in automobils, plus a snack bar.",
+            "address": "8780 Rosemary St, Henderson, CO 80460",
+            "lat": 39.85531,
+            "long": -104.89837
+        },
+        {
+            "id": 11,
+            "name": "Regal UA Colorado Mills IMAX & RPX",
+            "web": "regmovies.com",
+            "desc": "Movie theater chain known for presenting 3D films on a giant screen, including blockbusters. ",
+            "address": "14500 W Colfax Ave Suite 600, Lakewood, CO 80401",
+            "lat": 39.68088,
+            "long": -104.93927
+        },
+        {
+            "id": 11,
+            "name": "Alamo Drafthouse Cinema Sloans Lake",
+            "web": "drafthouse.com",
+            "desc": "Stylish theater chain for new & classic films features cocktails & creative bites served seat-side.",
+            "address": "4255 W Colfax Ave, Denver, CO 80204",
+            "lat": 39.74083,
+            "long": -105.04253
+        },
+        {
+            "id": 11,
+            "name": "AMC DINE-IN Cherry Creek 8",
+            "web": "amctheatres.com",
+            "desc": "Not available",
+            "address": "3000 E 1st Ave, Denver, CO 80206",
+            "lat": 39.71598,
+            "long": -104.95275
+        },
+        {
+            "id": 12,
+            "name": "AMC Brighton 12",
+            "web": "amctheatres.com",
+            "desc": "Not available",
+            "address": "250 Pavilions PI, Brighton, CO 80601",
+            "lat": 39.98268,
+            "long": -104.83208
+        },
+        {
+            "id": 13,
+            "name": "AMC 9 + CO 10",
+            "web": "amctheatres.com",
+            "desc": "Not available",
+            "address": "826 Albion St, Denver, CO 80220",
+            "lat": 39.72969,
+            "long": -104.93910
+        },
+        {
+            "id": 14,
+            "name": "Regal UA Denver Pavilions 4DX & RPX",
+            "web": "regmovies.com",
+            "desc": "Not available",
+            "address": "500 16th St Mall #310, Denver, CO 80202",
+            "lat": 39.74314,
+            "long": -104.99070
+        },
+        {
+            "id": 15,
+            "name": "Alamo Drafthouse Cinema Littleton",
+            "web": "drafthouse.com",
+            "desc": "Stylish theater chain for new & classic films features cocktails & creative bites served seat-side.",
+            "address": "7301 S Santa Fe Dr Unit #850, Littleton, CO 80120",
+            "lat": 39.58372,
+            "long": -105.02501
+        },
+        {
+            "id": 16,
+            "name": "Harkins Theatres Arvada",
+            "web": "harkins.com",
+            "desc": "Modern multiplex chain showing blockbusters & a few independent films; some venues offer childcare.",
+            "address": "5550 Olde Wadsworth Blvd, Arvada, CO 80002",
+            "lat": 39.79771,
+            "long": -105.08014
+        },
+        {
+            "id": 17,
+            "name": "AMC Bowles Crossing 12",
+            "web": "amctheatres.com",
+            "desc": "Not available",
+            "address": "8035 W Bowles Ave, Littleton, CO 80123",
+            "lat": 39.61116,
+            "long": -105.08535
+        },
+        {
+            "id": 18,
+            "name": "Century 16 Bel Mar and XD",
+            "web": "cinemark.com",
+            "desc": "Not available",
+            "address": "440 S Teller St, Lakewood, CO 80226",
+            "lat": 39.70833,
+            "long": -105.07670
+        },
+        {
+            "id": 18,
+            "name": "Regal River Point & RPX",
+            "web": "regmovies.com",
+            "desc": "Theater complex with multiple screens featuring new release films, plush seating & concession stand.",
+            "address": "3565 S Platte River Dr, Sheridan, CO 80110",
+            "lat": 39.65264,
+            "long": -105.00867
+        },
+        {
+            "id": 19,
+            "name": "Harkins Theatres Northfield 18",
+            "web": "harkins.com",
+            "desc": "Modern multiplex chain showing blockbusters & a few independent films; some venues offer childcare.",
+            "address": "8300 Northfield Blvd, Denver, CO 80238",
+            "lat": 39.78045,
+            "long": -104.89195
         }
     ]
-
+    
 }
