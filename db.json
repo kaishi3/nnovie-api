@@ -234,24 +234,7 @@
             "lat": 39.78045,
             "long": -104.89195
         },
-        {
-            "id": 26,
-            "name": "The Foundry Cinema & Bowl",
-            "web": "foundry-wp.com",
-            "desc": "Movie house & bowling alley with a pizzeria & bar serving refreshments you can bring to your seats.",
-            "address": "22 Second St, Fraser, CO 80442",
-            "lat": 39.92786,
-            "long": -105.78924
-        },
-        {
-            "id": 27,
-            "name": "AMC DINE-IN Southlands 16",
-            "web": "amctheatres.com",
-            "desc": "Description not available",
-            "address": "23955 E Plaza Ave, Aurora, CO 80016",
-            "lat": 39.60668,
-            "long": -104.70884
-        },
+
         {
             "id": 28,
             "name": "Fox Cinema Center",
