@@ -288,25 +288,6 @@
             "lat": 40.54158,
             "long": -105.07211
         },
-
-        {
-            "id": 33,
-            "name": "Elvis Cinemas",
-            "web": "elviscinemas.com",
-            "desc": "No description available",
-            "address": "4884, 7400 E Hampden Ave, Denver, CO 80237",
-            "lat": 39.65140,
-            "long": -104.90058
-        },
-        {
-            "id": 34,
-            "name": "Metropolitan MetroLux 14 Theatres",
-            "web": "metrotheatres.com",
-            "desc": "No description available",
-            "address": "6085 Sky Pond Dr, Loveland, CO 80538",
-            "lat": 40.42012,
-            "long": -104.99085
-        },
         {
             "id": 36,
             "name": "Regal Village At The Peaks & RPX",
