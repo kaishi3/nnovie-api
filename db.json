@@ -236,12 +236,93 @@
         },
         {
             "id": 26,
-            "name": "Harkins Theatres Northfield 18",
-            "web": "harkins.com",
-            "desc": "Modern multiplex chain showing blockbusters & a few independent films; some venues offer childcare.",
-            "address": "8300 Northfield Blvd, Denver, CO 80238",
-            "lat": 39.78045,
-            "long": -104.89195
+            "name": "The Foundry Cinema & Bowl",
+            "web": "foundry-wp.com",
+            "desc": "Movie house & bowling alley with a pizzeria & bar serving refreshments you can bring to your seats.",
+            "address": "22 Second St, Fraser, CO 80442",
+            "lat": 39.92786,
+            "long": -105.78924
+        },
+        {
+            "id": 27,
+            "name": "AMC DINE-IN Southlands 16",
+            "web": "amctheatres.com",
+            "desc": "Description not available",
+            "address": "23955 E Plaza Ave, Aurora, CO 80016",
+            "lat": 39.60668,
+            "long": -104.70884
+        },
+        {
+            "id": 28,
+            "name": "Fox Cinema Center",
+            "web": "montrosemovies.com",
+            "desc": "Compact movie house offering new releases & weekly ticket specials in down-home surrounds.",
+            "address": "27 S Cascade Ave, Montrose, CO 81401",
+            "lat": 38.47908,
+            "long": -107.87599
+        },
+        {
+            "id": 29,
+            "name": "Reel Mountain Theater/Cinema",
+            "web": "reelmountain.com",
+            "desc": "Small, family-owned cinema showing new rleases & offering concessions & daily matinee tickets.",
+            "address": "543 Big Thompson Ave, Estes Park, CO 80517",
+            "lat": 40.38009,
+            "long": -105.51469
+        },
+        {
+            "id": 30,
+            "name": "Kimball's Peak Three Theater",
+            "web": "kimballspeakthree.com",
+            "desc": "Modern cinema with an old-school marquee that serves booze & shows independent & first-run films.",
+            "address": "115 E Pikes Peak Ave, Colorado Springs, CO 80903",
+            "lat": 38.83340,
+            "long": -104.82272
+        },
+        {
+            "id": 31,
+            "name": "Cinemark Movie Bistro and XD",
+            "web": "cinemark.com",
+            "desc": "Chain of movie theaters, some with multiple screens, stadium seats & self-service ticketing kiosks.",
+            "address": "335 E Foothills Pkwy, Fort Collins, CO 80525",
+            "lat": 40.54158,
+            "long": -105.07211
+        },
+        {
+            "id": 32,
+            "name": "Cinemark Tinseltown USA and XD",
+            "web": "cinemark.com",
+            "desc": "Chain of movie theaters, some with multiple screens, stadium seats & self-service ticketing kiosks.",
+            "address": "1545 E Cheyenne Mountain Blvd, Colorado Springs, CO 80906",
+            "lat": 38.79033,
+            "long": -104.79932
+        },
+        {
+            "id": 33,
+            "name": "Elvis Cinemas",
+            "web": "elviscinemas.com",
+            "desc": "No description available",
+            "address": "4884, 7400 E Hampden Ave, Denver, CO 80237",
+            "lat": 39.65140,
+            "long": -104.90058
+        },
+        {
+            "id": 34,
+            "name": "Metropolitan MetroLux 14 Theatres",
+            "web": "metrotheatres.com",
+            "desc": "No description available",
+            "address": "6085 Sky Pond Dr, Loveland, CO 80538",
+            "lat": 40.42012,
+            "long": -104.99085
+        },
+        {
+            "id": 35,
+            "name": "Riverwalk Theater",
+            "web": "riverwalktheater.com",
+            "desc": "No description available",
+            "address": "34253 US-6, Edwards, CO 81632",
+            "lat": 39.64368,
+            "long": -106.59207
         }
 
     ]
