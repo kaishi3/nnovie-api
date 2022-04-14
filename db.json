@@ -316,15 +316,6 @@
             "long": -104.99085
         },
         {
-            "id": 35,
-            "name": "Riverwalk Theater",
-            "web": "riverwalktheater.com",
-            "desc": "This long-standing cinema with a classic marquee presents first-run movies on 4 screens.",
-            "address": "34253 US-6, Edwards, CO 81632",
-            "lat": 39.64368,
-            "long": -106.59207
-        },
-        {
             "id": 36,
             "name": "Regal Village At The Peaks & RPX",
             "web": "regmovies.com",
@@ -332,15 +323,6 @@
             "address": "1230 S Hover St, Longmont, CO 80501",
             "lat": 40.14767,
             "long": -105.12715
-        },
-        {
-            "id": 37,
-            "name": "Crystal Theatre",
-            "web": "crystaltheatrecarbondale.com",
-            "desc": "No description available",
-            "address": "427 Main St, Carbondale, CO 81623",
-            "lat": 39.40064,
-            "long": -107.21167
         },
         {
             "id": 38,
@@ -359,16 +341,8 @@
             "address": "2000 S Colorado Blvd Ste. C, Denver, CO 80222",
             "lat": 39.68066,
             "long": -104.93297
-        },
-        {
-            "id": 40,
-            "name": "Times Square Theater",
-            "web": "No website",
-            "desc": "No description available",
-            "address": "217 W 42nd St, New York, NY 10036",
-            "lat": 40.75667,
-            "long": -73.98777
         }
+
 
 
     ]
