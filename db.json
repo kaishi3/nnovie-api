@@ -261,33 +261,7 @@
             "lat": 38.47908,
             "long": -107.87599
         },
-        {
-            "id": 29,
-            "name": "Reel Mountain Theater/Cinema",
-            "web": "reelmountain.com",
-            "desc": "Small, family-owned cinema showing new rleases & offering concessions & daily matinee tickets.",
-            "address": "543 Big Thompson Ave, Estes Park, CO 80517",
-            "lat": 40.38009,
-            "long": -105.51469
-        },
-        {
-            "id": 30,
-            "name": "Kimball's Peak Three Theater",
-            "web": "kimballspeakthree.com",
-            "desc": "Modern cinema with an old-school marquee that serves booze & shows independent & first-run films.",
-            "address": "115 E Pikes Peak Ave, Colorado Springs, CO 80903",
-            "lat": 38.83340,
-            "long": -104.82272
-        },
-        {
-            "id": 31,
-            "name": "Cinemark Movie Bistro and XD",
-            "web": "cinemark.com",
-            "desc": "Chain of movie theaters, some with multiple screens, stadium seats & self-service ticketing kiosks.",
-            "address": "335 E Foothills Pkwy, Fort Collins, CO 80525",
-            "lat": 40.54158,
-            "long": -105.07211
-        },
+
         {
             "id": 36,
             "name": "Regal Village At The Peaks & RPX",
