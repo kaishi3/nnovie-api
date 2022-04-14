@@ -225,25 +225,6 @@
             "lat": 39.71868,
             "long": -104.98727
         },
-        {
-            "id": 25,
-            "name": "The Kress Cinema & Lounge",
-            "web": "kresscinema.com",
-            "desc": "A new take on dinner & a show with cocktails & noshes served in an art deco lounge/viewing room.",
-            "address": "817 8th Ave, Greeley, CO 806031",
-            "lat": 39.78045,
-            "long": -104.89195
-        },
-
-        {
-            "id": 28,
-            "name": "Fox Cinema Center",
-            "web": "montrosemovies.com",
-            "desc": "Compact movie house offering new releases & weekly ticket specials in down-home surrounds.",
-            "address": "27 S Cascade Ave, Montrose, CO 81401",
-            "lat": 38.47908,
-            "long": -107.87599
-        },
 
         {
             "id": 36,
