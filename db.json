@@ -288,15 +288,7 @@
             "lat": 40.54158,
             "long": -105.07211
         },
-        {
-            "id": 32,
-            "name": "Cinemark Tinseltown USA and XD",
-            "web": "cinemark.com",
-            "desc": "Chain of movie theaters, some with multiple screens, stadium seats & self-service ticketing kiosks.",
-            "address": "1545 E Cheyenne Mountain Blvd, Colorado Springs, CO 80906",
-            "lat": 38.79033,
-            "long": -104.79932
-        },
+
         {
             "id": 33,
             "name": "Elvis Cinemas",
@@ -323,15 +315,6 @@
             "address": "1230 S Hover St, Longmont, CO 80501",
             "lat": 40.14767,
             "long": -105.12715
-        },
-        {
-            "id": 38,
-            "name": "Cinemark Carefree Circle and IMAX",
-            "web": "cinemark.com",
-            "desc": "Chain of movie theaters, some with multiple screens, stadium seats & self-service ticketing kiosks.",
-            "address": "3305 Cinema Point, Colorado Springs, CO 80922",
-            "lat": 38.88088,
-            "long": -104.71609
         },
         {
             "id": 39,
