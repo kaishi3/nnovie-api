@@ -13,7 +13,7 @@
             "id": 1,
             "name": "Canyon Theater and Gallery",
             "web": "boulderlibrary.org",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "9th Street and Canyon Boulevard, Canyon Blvd, Boulder, CO 80302",
             "lat": 40.01508,
             "long": -105.28213
@@ -31,7 +31,7 @@
             "id": 3,
             "name": "AMC Flatiron Crossing 14",
             "web": "amctheatres.com",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "61 W Flatiron Crossing Dr, Broomfield, CO 80021",
             "lat": 39.93016,
             "long": -105.13539
@@ -58,7 +58,7 @@
             "id": 6,
             "name": "AMC Westminster Promenade 24",
             "web": "amctheatres.com",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "10655 Westminster Blvd, Westminster, CO 80020",
             "lat": 39.93016,
             "long": -105.13539
@@ -67,7 +67,7 @@
             "id": 7,
             "name": "AMC Orchard 12",
             "web": "amctheatres.com",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "14653 Orchard Pkwy, Westminster, CO 80023",
             "lat": 39.96225,
             "long": -104.99430
@@ -76,7 +76,7 @@
             "id": 8,
             "name": "Canyon Theater - Boulder Public Library",
             "web": "boulderlibrary.org",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "1001 Arapahoe Ave, Boulder, CO 80302",
             "lat": 40.01379,
             "long": -105.28127
@@ -121,7 +121,7 @@
             "id": 13,
             "name": "AMC DINE-IN Cherry Creek 8",
             "web": "amctheatres.com",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "3000 E 1st Ave, Denver, CO 80206",
             "lat": 39.71598,
             "long": -104.95275
@@ -130,7 +130,7 @@
             "id": 14,
             "name": "AMC Brighton 12",
             "web": "amctheatres.com",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "250 Pavilions PI, Brighton, CO 80601",
             "lat": 39.98268,
             "long": -104.83208
@@ -139,7 +139,7 @@
             "id": 15,
             "name": "AMC 9 + CO 10",
             "web": "amctheatres.com",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "826 Albion St, Denver, CO 80220",
             "lat": 39.72969,
             "long": -104.93910
@@ -148,7 +148,7 @@
             "id": 16,
             "name": "Regal UA Denver Pavilions 4DX & RPX",
             "web": "regmovies.com",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "500 16th St Mall #310, Denver, CO 80202",
             "lat": 39.74314,
             "long": -104.99070
@@ -175,7 +175,7 @@
             "id": 19,
             "name": "AMC Bowles Crossing 12",
             "web": "amctheatres.com",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "8035 W Bowles Ave, Littleton, CO 80123",
             "lat": 39.61116,
             "long": -105.08535
@@ -184,7 +184,7 @@
             "id": 20,
             "name": "Century 16 Bel Mar and XD",
             "web": "cinemark.com",
-            "desc": "Not available",
+            "desc": "Description not available",
             "address": "440 S Teller St, Lakewood, CO 80226",
             "lat": 39.70833,
             "long": -105.07670
@@ -206,7 +206,44 @@
             "address": "8300 Northfield Blvd, Denver, CO 80238",
             "lat": 39.78045,
             "long": -104.89195
+        },
+        {
+            "id": 23,
+            "name": "The Fox Theatre",
+            "web": "z2ent.com",
+            "desc": "Hip, funky performance space with a full bar hosting diverse, alt-friendly bands, DJs & beyond.",
+            "address": "1135 13th St, Boulder, CO 80302",
+            "lat": 40.00805,
+            "long": -105.27639
+        },
+        {
+            "id": 24,
+            "name": "Landmark's Mayan Theatre",
+            "web": "landmarktheatres.com",
+            "desc": "Movie theater screening new releases as well as independent, foreign & avant-garde flicks.",
+            "address": "110 Broadway between First and Second Avenues, Denver, CO 80203",
+            "lat": 39.71868,
+            "long": -104.98727
+        },
+        {
+            "id": 25,
+            "name": "The Kress Cinema & Lounge",
+            "web": "kresscinema.com",
+            "desc": "A new take on dinner & a show with cocktails & noshes served in an art deco lounge/viewing room.",
+            "address": "817 8th Ave, Greeley, CO 806031",
+            "lat": 39.78045,
+            "long": -104.89195
+        },
+        {
+            "id": 26,
+            "name": "Harkins Theatres Northfield 18",
+            "web": "harkins.com",
+            "desc": "Modern multiplex chain showing blockbusters & a few independent films; some venues offer childcare.",
+            "address": "8300 Northfield Blvd, Denver, CO 80238",
+            "lat": 39.78045,
+            "long": -104.89195
         }
+
     ]
     
 }
